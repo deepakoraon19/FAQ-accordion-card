@@ -9,7 +9,7 @@ body{
 }
 .container{
     background-color: white;
-    background-image: url("/images/bg-pattern-desktop.svg");
+    background-image: url("./images/bg-pattern-desktop.svg");
     width:70%;
     /*height:200%;
     */display: flex;
