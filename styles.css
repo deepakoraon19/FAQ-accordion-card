@@ -46,6 +46,7 @@ body{
     justify-content: space-between;
     align-items: center;
     margin:5% 0% 2.5% 0%;
+    /* flex-wrap: wrap; */
 }
 .ans{
     display: none;
@@ -53,6 +54,7 @@ body{
 }
 .button{
     margin-right:20%;
+    /* margin:auto; */
     height:50%;
     /* position:absolute; */
 }
@@ -61,4 +63,7 @@ body{
 }
 .display{
     display:block;
+}
+.divwala{
+    width:70%;
 }
